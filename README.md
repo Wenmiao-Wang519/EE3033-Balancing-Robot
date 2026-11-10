@@ -57,3 +57,4 @@ Provides the ROS 2 launch configuration for robot bringup, LiDAR sensing, AMCL l
 ## Authors
 
 **EE3033 Group 03**
+> **Note:** This repository contains the two main Python scripts developed for the project. The system also depends on additional ROS 2 packages, launch files, and configuration files provided by the robot platform and development environment.
